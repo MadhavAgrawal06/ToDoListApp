@@ -15,6 +15,14 @@ This project demonstrates core **Java concepts** like loops, conditionals, class
 
 ---
 
+## 🧠 Tech Stack
+
+- **Language:** Java  
+- **IDE:** Visual Studio Code  
+- **Type:** Console-based Application  
+
+---
+
 ## 🧠 Concepts Used
 
 - **Object-Oriented Programming (OOP)**  
@@ -31,6 +39,8 @@ Here’s a quick look at the **To-Do List App** in action 👇
 
 ![To-Do List App Screenshot](screenshot.png)
 
+🔗 **Try it yourself:** [Run on Replit](https://replit.com/@MadhavAgrawal7/ToDoListApp)
+
 ---
 
 ## 💡 Future Improvements
@@ -41,6 +51,16 @@ Here’s a quick look at the **To-Do List App** in action 👇
 
 ---
 
+## 🧩 How to Run Locally
+
+Follow these steps to run the project on your local system:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/MadhavAgrawal06/ToDoListApp.git
+   cd ToDoListApp
+   javac ToDoListApp.java
+   java ToDoListApp
 ## 👨‍💻 Author
 
 **Madhav Agrawal**  
